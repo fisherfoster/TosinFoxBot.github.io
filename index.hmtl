@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+
+<style>
+
+h1 {color:purple}
+h2{color:blue}
+h3{color:green}
+
+body {background-color:pink; }
+</style>
+
+</head>
+<body>
+
+<h1>Evelyn Ikhile's Song</h1>
+<img src="https://scontent-dfw5-1.xx.fbcdn.net/v/t1.18169-9/1376525_711844375563993_6787496609244187102_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=jDDEBnwsu6IAX-9r0qB&_nc_oc=AQm7avHX_GIwXhWBY-D2xbDebabXh-l-_d2-g223v5rrs9lEDFrBZ3WAIXY7GpFXGQ_2xL31QPrv93U5Eu7rRguM&_nc_ht=scontent-dfw5-1.xx&cb_e2o_trans=t&oh=00_AfCP8WYn5gSC_Q-EQG8Bg2Aqs0fwgXR3cQEyRL9VU3WVtg&oe=65A3200F" width= "300">
+
+<h1> Verse 1</h1> 
+As autumn leaves descend, and summer's warmth is gone, <br>
+Evelyn, your season begins, a melody drawn.<br> In the cool embrace of fall, you stand so tall,<br> A tapestry of colors, enchanting and enthralling.
+<p> Chorus<br> 
+Evelyn, oh Evelyn, in this autumn breeze, <br>Your spirit whispers through the rustling trees. <br>In every golden leaf and the harvest's song, <br>Your name echoes softly, as the days grow long. </p>
+<h2>Verse 2 </h2>
+Winter's frost may come, with its icy embrace, <br>Yet, Evelyn, your warmth won't erase.<br> For in the quiet snowfall and the crisp air's grace,<br> Your essence sparkles, leaving a timeless trace.<br>
+<p>Chorus <br>
+Evelyn, oh Evelyn, in this winter's chill,<br> Your presence lingers, a flame that never stills.<br> Amidst the snowflakes and the starlit night,<br> Your season endures an everlasting light. <br></P>
+<p>Bridge <br>
+ Spring emerges, with blossoms anew, <br>Evelyn, in this season, we see the world through you. <br>A garden of dreams, where hope takes flight, <br>In the bloom of joy, your spirit alights. </p>
+<h3>Verse 3</h3>
+ Summer arrives, with its sunlit embrace,<br> Evelyn, your season, a radiant space.<br> In the warmth of the sun and the ocean's tide,,br> Your laughter echoes a joy that won't hide.
+<p>Chorus <br>
+Evelyn, oh Evelyn, in this summer's glow, <br>Your season unfolds,a vibrant tableau.<br> In the days of sunshine and the starry night,<br> Your name we cherish, a guiding light.</p>
+<h4> Outro </h4>
+Through seasons that change, and time that flows, <br>Evelyn, your essence in every wind that blows.<br>In this season's song, your name we sing,<br> A timeless melody, where memories cling.
+
+<h4>Songs for the season</h4>
+<iframe width="599" height="366" src="https://www.youtube.com/embed/P6jVM8O9ReM" title="Classical Music for Winter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="599" height="366" src="https://www.youtube.com/embed/WhC5Tmb4WSY" title="Early Winter - Keane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Naija song.</p>
+
+<iframe width="599" height="366" src="https://www.youtube.com/embed/zMMuk4Q2Zpg" title="wasiu ayinde baba seun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="599" height="366" src="https://www.youtube.com/embed/3yvqZ7Kmhbo" title="MO GBOHUN OLORUN MI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</body>
+</html>
